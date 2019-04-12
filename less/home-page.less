@@ -1,4 +1,13 @@
 .home {
+   
+  .fun-bus-header {
+    border-bottom: 2px dashed @navigation-border;
+
+    .fun-bus-img {
+      display: block;
+      margin-bottom: 30px;
+    }
+  }
 
   .content-section {
     margin: 30px 0;
@@ -56,6 +65,11 @@
     .destination {
       width: 30%;
       margin-bottom: 30px;
+
+      .btn {
+        .button-mixin(10px, 70%, 35px);
+        font-size: 1.9rem;
+      }
     }
   }
 }// home

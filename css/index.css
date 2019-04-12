@@ -190,7 +190,7 @@ img {
 .top-navigation .logo {
   width: 20%;
   align-items: center;
-  margin-left: 12%;
+  margin-left: 19%;
 }
 @media (max-width: 500px) {
   .top-navigation .logo {
@@ -204,7 +204,7 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-right: 15%;
+  margin-right: 20%;
 }
 @media (max-width: 500px) {
   .top-navigation nav {
